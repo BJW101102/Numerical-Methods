@@ -1,4 +1,4 @@
-# CSC-2262
+# CSC-2262: Numerical Methods
 **Course Description:** 
 Computer-oriented methods for solving numerical problems in science and engineering; numerical solutions to systems of
 simultaneous linear equations, nonlinear algebraic equations (root solving), differentiation and integration, ordinary differential
